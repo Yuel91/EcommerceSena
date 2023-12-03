@@ -1,0 +1,11 @@
+.body{
+    background: linear-gradient(60deg,gray, white);
+    height: 100vh;
+}
+.card-body{
+    background-color: #E0E0E0;
+}
+
+.card{
+    background-color: #E0E0E0;
+}
